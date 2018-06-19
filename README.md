@@ -1,0 +1,2 @@
+Vector evaluated genetic algorithm (VEGA) was the first genetic algorithm proposed for multiobjective optimization. Program demonstrates the results of using the VEGA for two criteria optimization with additional restrictions.
+Required boost and gsl for computation.
